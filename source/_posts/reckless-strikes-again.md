@@ -3,6 +3,8 @@ title: reckless strikes again
 date: 2018-04-18 04:03:30
 tags:
 ---
+_(writing another version of the story from sarcastic jesus perspective)_
+
 He will be okay. He didn’t know what he was doing after all, but that boy has a life ahead of him that he would have never imagined.
 
 I was just coming back down from the mountain from praying. Sweating. Tired like I’ve never been before. This is gonna be it. I remember thinking, _“These guys will be okay without me. These guys will be okay without me. These guys will be okay without me.”_

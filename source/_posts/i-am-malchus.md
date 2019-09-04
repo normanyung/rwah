@@ -3,6 +3,17 @@ title: i am malchus
 date: 2018-04-11 04:01:28
 tags:
 ---
+_from an email i sent to some people at church:_
+
+> Last night, like every night, Rehema and Selah asked for a bedtime story. Usually it's a story of rescue or victory from the life of King David or one of the Patriachs. Maybe a retelling of one of Jesus' parables or an account of one of his miraculous signs. But since yesterday was Maundy Thursday I retold a story they already knew (despite knowing that they would would constantly interrupt and finish my sentences... anyway): Jesus sharing his final meal with his disciples before his betrayal and arrest. You know the one: the upper room, the announcement of a betrayer, the sleepy disciples on Gethsemane while Jesus prayed, the kiss, the soldiers.
+> 
+> Usually when I tell these stories I try to think like a toddler and anticipate their questions. But sometimes my preemptive thinking leads me down certain rabbit holes that I try not to make too big a deal about in the story so they won't ask me. 
+> 
+> Anyway when I was telling the story of the soldiers coming to arrest Jesus, I couldn't leave out the random tidbit about Peter cutting off the right ear of the high priest's servant (John identifies him as Malchus). But as soon as the words left my mouth, I started wondering... what's his story? Malchus came with the soldiers to arrest Jesus, loses an ear to Peter and then this Jesus who they're capturing heals him right there. What does he make of this encounter with Jesus? What does he think about when he goes home that evening? Maybe he converts? Maybe he doesn't. The bible doesn't give us too much detail but every Gospel account mentions him.
+> 
+> Anyway, if you're up for it, would you consider telling the story of Malchus? No more than 500 words. This is not a research essay, just an imaginative exercise. 
+
+---
 I don’t understand.
 
 This was supposed to be the night — the night where our fears will be put to rest and peace restored among us. Which of us can deny the chaos we’ve seen at the temple and in the marketplace? But my heart is unsettled like an upset stomach.
