@@ -74,15 +74,15 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: rwah
-theme_config:
-  colorscheme: white
   # colorscheme: light
   # colorscheme: dark
   # colorscheme: classic
+
 nav:
   Home: /
   About: /about/
   Writing: /archives/
+
 posts_overview:
   show_all_posts: false
   post_count: 10
@@ -91,11 +91,6 @@ posts_overview:
 
 # leave empty to use the hexo-generator-feed plugin.
 rss:
-
-# social_links:
-#   github: your-github-url
-#   twitter: your-twitter-url
-#   NAME: your-NAME-url
 
 google_analytics:
   enabled: true
