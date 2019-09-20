@@ -1,7 +1,7 @@
 ---
 title: Kenya Snapshots
 date: 2015-03-09 12:00:00
-tags:
+tags: kenya
 ---
 a few notes to help me remember.
 

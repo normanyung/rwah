@@ -1,7 +1,7 @@
 ---
 title: Starting Something New... Again.
 date: 2015-01-01 13:29:16
-tags:
+tags: blog, goals
 ---
 ### Trying this again
 I've started more blogs than I can remember. My longest running one probably was my Xanga. Next was maybe the first time I ran a site here on this domain, robotwithaheart.com. My girlfriend (now wife) helped me design that and she drew and scanned all these robots for me to use all over the site. Good times. Maybe waybackmachine has a copy of it somewhere. I definitely don't.

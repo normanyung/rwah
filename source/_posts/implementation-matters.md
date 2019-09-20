@@ -1,6 +1,6 @@
 ---
 title: implementation matters
 date: 2018-08-22 13:25:13
-tags:
+tags: formation
 ---
 had a discussion today about formation and matters of its implementation.  how can we train people to love what is good? everything i’ve been trying so far with formation has been an experiment to find what actually works with our people. i doubt many ministers would not want their church members to engage with god in prayer and scripture. but how do we get from point a to point b? my conversation partner _seemed_ to be pushing for plain exposure to what is good. i understood it as we should _impose_ (i don’t think he would this word) it into the established structure of community groups (CGs) and hope for people to realize and recognize how good it is. the idea was that they would not be exposed to it otherwise and as leaders, shouldn’t we give them what is good? but i couldn’t see how this would work with our people. i don’t think people would be ready for it and it would seem as though we were forcing an irrelevant practice on their lives. maybe i don’t have enough faith in the power of scripture to represent itself to people? maybe i’m catering too much to people’s tastes? i hope not, but i honestly don’t know. time will tell if my preferred slow-trickle method will ultimately be fruitful. 

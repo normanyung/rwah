@@ -1,7 +1,7 @@
 ---
 title: teeth in the game
 date: 2018-10-01 13:34:23
-tags:
+tags: ministry
 ---
 it’s been a long silence. one of the things i wanted to avoid but here i am; i’m trying to go back and keep this from stalling indefinitely. school starting (for the babies) and church work going full steam does make for a pretty busy week. nonstop train rides to pick up and drop off. meetings with people every other night (or so it seems). i shared with the cgls last week that i have not had time for rest… to pause and relax. this past saturday was perhaps the first… finished my sermon early. had a great day in the playground with the babies. bike ride was nice. snl at the end of the day was a nice treat.
 

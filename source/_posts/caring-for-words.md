@@ -1,7 +1,7 @@
 ---
 title: Caring For Words
 date: 2015-01-08 12:00:00
-tags:
+tags: seminary language
 ---
 ### January Term has begun
 I just started my January term this week at [Western](http://www.westernsem.edu/). January term is a three-week intensive of a single class. I have something to do or turn in every day, so I'm trying to get ahead of the class before things get too busy and I fall behind.

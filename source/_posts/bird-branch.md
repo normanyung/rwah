@@ -1,7 +1,7 @@
 ---
 title: bird & branch
 date: 2018-12-27 21:38:29
-tags:
+tags: creative, sketches
 ---
 sketch while i sat at the window of bird & branch.
 
