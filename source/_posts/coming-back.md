@@ -1,7 +1,7 @@
 ---
 title: coming back
 date: 2019-09-01 21:59:08
-tags:
+tags: musings
 ---
 resurrecting this... again (for the fourth or fifth time now?). summer has been hectic. full of transitions. several steps in ordination examination. lots of challenges w/ church leadership and growth and wanting people to _want_ growth. 
 

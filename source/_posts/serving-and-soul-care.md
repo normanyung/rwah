@@ -1,7 +1,10 @@
 ---
 title: serving and soul care
 date: 2019-07-31 14:33:52
-tags: formation, leadership, burnout
+tags: 
+- formation
+- leadership
+- burnout
 ---
 i met with sofie yesterday to talk about stepping down from leadership. she had already decided so this conversation was already after the fact. i wasn't trying to change her mind or even get her to reconsider. i just wanted her to think deeply about what stepping down means and what effects it can have on your soul. there were lots of things we discussed, but i'm not gonna write about them here. but the conversation did lead me to consider and lament the state our church sees ministry and service.
 

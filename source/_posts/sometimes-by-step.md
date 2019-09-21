@@ -1,7 +1,9 @@
 ---
 title: sometimes by step
 date: 2018-12-24 20:56:09
-tags: sketches, art
+tags: 
+- sketches
+- art
 ---
 I've been in an artsy mood as of late and doing my annual binging of Rich Mullins commentaries and specials. His life is just so amazing and inspiring. Here's one from one of my favorite songs of his. He's just so good and weaving biblical story and imagination.
 

@@ -1,7 +1,11 @@
 ---
 title: hello ministry life
 date: 2018-08-19 13:21:46
-tags: ministry, reflection, formation, sabbath
+tags:
+- ministry
+- reflection
+- formation
+- sabbath
 ---
 i graduated this past may — a long journey i was in no rush to finish, content to do ministry part time, student-ing full time while being daddy daycare full time. but since graduation i’ve been thinking a lot about what life will be like when i finally enter full time ministry. i’ve heard the stories of PKs and know several personally — each has their own story with their identity in and outside of the church. even this summer which seems like an preface to the story of my adult work, i’ve felt that tug. all of them know that monday is a meetings day which means daddy can’t be home to tell stories. they know that sometimes i go to church to teach which means i can’t go to the beach or go with them to the museum. what would life have been like if i stayed with my career as a web developer? undivided without the church as a mistress on the side?
 

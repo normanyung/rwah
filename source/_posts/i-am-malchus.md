@@ -1,7 +1,9 @@
 ---
 title: i am malchus
 date: 2018-04-11 04:01:28
-tags: creative, writing
+tags: 
+- creative
+- writing
 ---
 _from an email i sent to some people at church:_
 

@@ -1,7 +1,9 @@
 ---
 title: reckless strikes again
 date: 2018-04-18 04:03:30
-tags: creative, writing
+tags: 
+- creative
+- writing
 ---
 _(writing another version of the story from sarcastic jesus perspective)_
 

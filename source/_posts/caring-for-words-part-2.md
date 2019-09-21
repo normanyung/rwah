@@ -1,7 +1,9 @@
 ---
 title: Caring For Words, Part 2
 date: 2015-02-01 12:00:00
-tags: seminary, language
+tags: 
+- seminary
+- language
 ---
 How shall I reflect on the class I just finished? 
 

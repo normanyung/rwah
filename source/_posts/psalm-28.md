@@ -1,7 +1,9 @@
 ---
 title: psalm 28
 date: 2018-08-27 13:26:22
-tags: scripture, psalms
+tags: 
+- scripture
+- psalms
 ---
 
 _To you, O LORD, I call;

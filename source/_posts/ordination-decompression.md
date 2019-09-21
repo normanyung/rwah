@@ -1,7 +1,10 @@
 ---
 title: ordination decompression
 date: 2019-09-20 12:46:41
-tags: ministry, pca, family
+tags: 
+- ministry
+- pca
+- family
 ---
 i passed my denomination's ordination exam earlier this week. i'm so glad it's over because it's been a rather terrible process: 3 exams and an inhumane level of studying. i felt like i was reduced to a bible trivia machine. i often compared it to a hazing process for a frat because it felt like unneccessary pain just to join some exclusive club. i told rob and josh throughout the process that i found the whole ordeal fairly life-draining. i missed two major family trips (maine and arizona) to study or take an exam. that was sad. but i had time to meditate on words pastor ro shared with me regarding ministry and family during our mentoring sessions &mdash; they are fast becoming a reality.
 

@@ -1,7 +1,10 @@
 ---
 title: Learning By Heart
 date: 2015-02-10 12:00:00
-tags: psalms, memorization, scripture
+tags: 
+- psalms
+- memorization
+- scripture
 ---
 When I was four years old, I memorized Psalm 23. Every morning, we recited in our classroom at Perrine Baptist Academy, a few blocks away from my childhood home. I had no idea what it meant. "The Lord is my shepherd... I shall not want"? Does that mean I don't want the Lord as my shepherd? What is "the valley of the shadow of death"? I could ask such a question of every phrase of the psalm.
 
