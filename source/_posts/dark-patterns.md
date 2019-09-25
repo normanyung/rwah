@@ -2,7 +2,7 @@
 title: dark patterns
 date: 2019-09-24 01:39:04
 tags: 
-- reflection
+- reflections
 - musings
 - provisional five
 ---
