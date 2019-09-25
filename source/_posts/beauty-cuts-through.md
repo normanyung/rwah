@@ -3,7 +3,7 @@ title: beauty cuts through
 date: 2019-09-11 12:32:33
 tags: 
 - enneagram
-- reflection
+- reflections
 - beauty
 ---
 i was listening to the Typology podcast the other day where they had a panel of Enneagram 5s. I think 5s often get shafted when it comes to books and podcasts. we generally don't like to put ourselves out there... especially in a recorded medium. my experience w/ coursework at school around the enneagram often left 5s hanging. seminary didn't know exactly how to deal w/ them; maybe they're better now.

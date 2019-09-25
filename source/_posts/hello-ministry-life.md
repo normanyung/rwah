@@ -3,7 +3,7 @@ title: hello ministry life
 date: 2018-08-19 13:21:46
 tags:
 - ministry
-- reflection
+- reflections
 - formation
 - sabbath
 ---
