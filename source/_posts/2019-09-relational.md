@@ -1,5 +1,5 @@
 ---
-title: We can know and be with God only relationally
+title: relational
 date: 2019-09-26 00:51:37
 tags: 
 - quotes
