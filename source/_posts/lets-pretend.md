@@ -5,6 +5,7 @@ tags:
 - cslewis
 - preaching
 - formation
+- quotes
 ---
 this past sunday i was preaching on "church life" and rob presided; we essentially switched spots. during rob's presiding he mentioned that his CG discussed "discerning God's will" from Ephesians 5. This wasn't planned but it set off a lot of thoughts the matched up well with my sermon content. Ephesians 5:8b,10 (skipping the parens of v9) says, _"Walk as children of light, and try to discern what is pleasing to the Lord."_ And often we understand "discern" as to figure out or reason out in our heads what is good; people get stuck on discerning God will before they practice God's will. Or perhaps the thinking is that it's much easier to "discern" than to "walk" God's will, thus we skip over to the easier one we can do without attracting too much judgment; thinking is way easier than doing; it's much easier to hide; there's less risk of failure.
 

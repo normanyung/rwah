@@ -5,6 +5,7 @@ tags:
 - reflections
 - strengthening the soul of your leadership
 - provisional five
+- quotes
 ---
 > Losing your soul is sort of like losing a credit card. You think it it’s in your wallet so you don’t give it much thought until one day you reach for it and can’t find it. The minute you realize it’s gone, you start scrambling to find it, trying to remember when you last used it or at least had it in your possession. No matter what is going on in your life, you stop and look for it, because otherwise major damage could be done. Oh, that we would feel the same sense of urgency when we become aware that we have lost our souls!”
 > 
