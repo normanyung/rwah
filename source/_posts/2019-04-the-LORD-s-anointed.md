@@ -1,7 +1,9 @@
 ---
 title: the LORD's anointed
 date: 2019-04-03 15:19:04
-tags:
+tags: 
+- reflections
+- bible
 ---
 I recently finished reading 1 Samuel and the beginning of 2 Samuel, getting to know David all over again. And as I'm going through this early part of his life I can't seem to shake his recurring reverence for Saul who he frequently calls, "the LORD's anointed."
 
