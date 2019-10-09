@@ -4,6 +4,7 @@ date: 2019-10-01 15:30:37
 tags:
 - quotes
 - cslewis
+- narnia
 ---
 There’s this scene I love at the beginning of _The Silver Chair_ from CS Lewis’s Chronicles of Narnia… where Jill Pole, a young girl, finds herself in a forest—alone and parched— dreadfully thirsty… 
 
