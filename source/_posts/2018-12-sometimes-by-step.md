@@ -12,7 +12,7 @@ I've been in an artsy mood as of late and doing my annual binging of Rich Mullin
 &nbsp;&nbsp;&nbsp;&nbsp;He was a stranger in this land
 &nbsp;&nbsp;&nbsp;&nbsp;And I am that, no less than he_
 
-&mdash; Rich Mullins, _Sometimes By Step_
+-- Rich Mullins, _Sometimes By Step_
 
 ![](/images/sometimesbystep85.jpg)
 Norman Yung, December 2018
