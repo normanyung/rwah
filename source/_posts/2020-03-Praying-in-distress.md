@@ -5,6 +5,7 @@ tags:
 - prayer
 - worship
 - psalms
+- dear church
 ---
 Church,
 During times of distress and trial we are called to pray. Prayer is our strong tether to the one who is sovereign and keeps all things in order when everything around us feels like chaos. Today I reflected on the following verses from scripture (**bolded text**, mine):

@@ -2,6 +2,7 @@
 title: Sing to Your Soul
 date: 2020-03-18 19:58:23
 tags:
+- dear church
 ---
 These days we find ourselves locked at home, physically disconnected from friends, family, and community. It's been difficult. Challenging. Our work is strained. Our relationships are tested. We're managing — or at least trying to. We're making the best of our circumstances.
 
