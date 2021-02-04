@@ -2,6 +2,9 @@
 title: Jesus and Pilate
 date: 2020-04-08 20:03:53
 tags:
+- pilate
+- bible
+- jesus
 ---
 I've read the Passion account many times in my life. This year was the first time I focused on the person of Pontius Pilate. Maybe it's because I'm preaching on it for the first time (usually the head pastor preaches on the high holy days on Holy Weekend; I almost always get Palm Sunday so the head pastor can have extra time to prepare for Easter weekend). Perhaps the preacher persona in me reads the text differently but I really started getting into the person of Pilate and how he responds to Jesus during that night. But more importantly, how Jesus responds to him.
 
