@@ -126,6 +126,9 @@ body
 // Code
 @import "_highlight/" + $highlight
 
+blockquote
+  white-space: pre-wrap
+
 pre
   overflow-x: auto
   padding: 10px 15px
@@ -157,7 +160,10 @@ code
   font-family: $font-family-mono
   // color: $color-accent-3
   -webkit-border-radius: 4px
-
+  
+  &.plain
+    background: transparent
+  
   figcaption
     margin: -5px 0 5px
     color: $color-meta-code
