@@ -10,13 +10,13 @@ tags:
 ## Everyone is afraid of burnout.
 Everyone is afraid of burnout. We talk a lot about spreading ourselves too thin, about over commitment, about work-life balance. Everyone seems to be concerned about self care... but is it really *self care*? 
 
-I'm starting believe that what many are now passing off as "self care" when choosing not serving others or refraining from active participation in community is really a stubborn and perpetual self ignorance masquarading as prudence. We think, "Do less things and we'll solve the problem of overcommitment!" But this is a false peace, akin to Jeremiah's challenge to Israel:
+I'm starting believe that what many are now passing off as "self care" when choosing not serving others or refraining from active participation in community is really a stubborn and perpetual self ignorance masquerading as prudence. We think, "Do less things and we'll solve the problem of over-commitment!" But this is a false peace, akin to Jeremiah's challenge to Israel:
 
 >   They have healed the wound of my people lightly,
 >       saying, ‘Peace, peace,’
 >       when there is no peace.
 
-Our problem goes deeper than merely "doing too many things." I'm sure all of us are guilty of overcommitment -- promising to do more than we can handle. Maybe some of us ended up doing too much unintentionally: served too much at a previous church, felt pressured or obligated by leaders who were more concerned about us as workers than as people. 
+Our problem goes deeper than merely "doing too many things." I'm sure all of us are guilty of over-commitment -- promising to do more than we can handle. Maybe some of us ended up doing too much unintentionally: served too much at a previous church, felt pressured or obligated by leaders who were more concerned about us as workers than as people. 
 
 **And our reaction is to pull back.**
 
@@ -51,4 +51,4 @@ Thus, when tension arises, we should not treat it only as something to avoid or 
 
 In this we join with God's work in the world and in our souls. What do our hearts tell us in conflict? What have you learned about yourself through difficult experiences? How is the LORD teaching us and shaping us to be more like Christ? It is in committed love that we are transformed. And we can confidently enter into this transformation because it is Christ who holds us, thus we cannot fail. 
 
-Let us enter into this disciplined repentance with confidence. 
+Let us enter into this disciplined love of service with confidence.
